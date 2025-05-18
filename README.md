@@ -35,7 +35,6 @@ technical_background:
   ]
   
 currently_learning: [ "Kubernetes, Data Science & Machine Learning in Python"]
-2024 Goals: ["Create 10+ Projects and learn at least 5-10 new Technologies."]
 hobbies: ["Gaming", "Cinema", "Running", "Reading", "Comedy"]
 ```
 
