@@ -60,7 +60,7 @@ hobbies: ["Gaming", "Cinema", "Running", "Reading", "Comedy"]
 
 ---
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ramon-vielma/)
-[![Gmail](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rvielma94@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rvielma94@gmail.com)
 
 
 📜 **Github History**
